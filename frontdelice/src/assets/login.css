@@ -1,0 +1,38 @@
+section {
+   
+background-image:url("../assets/image/delice22.png");
+  height:890px; 
+   
+  background-size:1950px 1080px;   
+background-repeat: no-repeat;}
+
+
+.rounded-3{
+ 
+background-color: white;
+margin-top: 10px !important;
+} 
+.form-label {
+font-size:25px;
+color: #000;
+
+}
+/* .form-control {
+
+    height: 60px
+} */
+.btn-bleu {
+background-color: #4d4dff;
+margin-left: 160px;
+color: white;
+font-size: 25px;
+}
+.login {
+font-size: 30px;
+text-align: center;
+
+
+}
+
+
+
